@@ -49,7 +49,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
   <ItemGroup>
     <Content Include="Lib\Biblioteka1.dll" />
   </ItemGroup>
